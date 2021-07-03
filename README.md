@@ -28,13 +28,13 @@ To scan a QR Code using zbarcam:
 
 - Any typical Linux distribution should do
 - Some Python 3 libs
- - json
- - zlib
- - base64
- - base45
- - cbor2
- - cose
- - cryptography
+  - json
+  - zlib
+  - base64
+  - base45
+  - cbor2
+  - cose
+  - cryptography
 - ZbarCam (optional, to scan a DCC via your webcam)
 
 ### Potential Caveats
